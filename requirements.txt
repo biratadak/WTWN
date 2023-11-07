@@ -1,0 +1,5 @@
+streamlit
+requests
+sklearn
+nltk
+pandas
